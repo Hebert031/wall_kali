@@ -1,1 +1,1 @@
-Alterar o wallpapper do grub no kali linux
+Script para alterar o wallpapper do grub no kali linux
